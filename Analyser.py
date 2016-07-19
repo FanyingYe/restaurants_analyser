@@ -123,29 +123,3 @@ class Analyser:
 		plt.title('Candy sales') 
 		plt.xticks(index + bar_width/2, productName,rotation=90)
 		plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
